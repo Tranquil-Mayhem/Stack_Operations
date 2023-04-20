@@ -14,7 +14,7 @@ PostfixEvaluation.java is the postfix evaluation program for these Stack Operati
 it takes the postfix expression from the InfixToPostfix program and evaluates it 
 like a calculator would, returning the result as a single integer
 
-To see the working program, compile and run MyExpressionTest.java.This is the test 
+To see the working program, compile and run MyExpressionTest.java. This is the test 
 program for these Stack Operations. This program asks for user input and checks to see 
 if their expression is valid. If valid, returns their expression as an infix expression, 
 postfix expression and the evaluated result
